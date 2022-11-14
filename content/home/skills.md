@@ -7,7 +7,7 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 15
 
 title: Skills
 subtitle:
@@ -20,11 +20,11 @@ feature:
     icon: python
     icon_pack: fab
     name: python
-  - description: 50%
+  - description: 70%
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 10%
+  - description: 70%
     icon: j
     icon_pack: fab
     name: Julia
