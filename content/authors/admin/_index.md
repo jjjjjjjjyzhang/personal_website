@@ -35,7 +35,7 @@ education:
     - course: Master of Applied Finance
       institution: Auckland University of technology
       year: 2019 - 2020
-    - course: Master of Finance in Environmental Science and Technology
+    - course: Master of Science in Environmental Science and Technology
       institution: City University of Hong Kong
       year: 2015 - 2016
 
