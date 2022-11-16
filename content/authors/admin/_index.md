@@ -24,7 +24,7 @@ bio: My research interests include derivatives, market forecasting, and environm
 interests:
   - Derivatives
   - Market forecasting
-  - Environmental finance
+  - Environmental issues
 
 # Education to show in About widget
 education:
