@@ -27,9 +27,9 @@ experience:
     company_url: ''
     company_logo: ''
     location: New Zealand
-    date_start: '2021'
+    date_start: '2021-2022'
     date_end: ''
-    description: FINC 310, FINC 306
+    description: FINC310 Fixed Income Security Analysis, FINC306 Derivatives
 
 
 design:
