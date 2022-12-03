@@ -26,24 +26,7 @@ experience:
     company: University of Otago
     location: New Zealand
     date_start: '2022-06-01'
-    date_end: '2022-11-01'
-    description: FINC306 Derivatives
-
-  - title: Tutoring
-    company: University of Otago
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
-design:
-  columns: '2'
----
-<!-- - title: Tutoring
-    company: University of Otago
-    location: New Zealand
-    date_start: '2022-06-01'
-    date_end: '2022-11-31'
+    date_end: '2022-11-30'
     description: FINC306 Derivatives
 
   - title: Tutoring
@@ -51,4 +34,8 @@ design:
     location: New Zealand
     date_start: '2021-06-01'
     date_end: '2021-11-31'
-    description: FINC310 Fixed Income Security Analysis -->
+    description: FINC310 Fixed Income Security Analysis
+
+design:
+  columns: '2'
+---
