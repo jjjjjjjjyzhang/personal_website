@@ -26,6 +26,34 @@ experience:
     company: University of Otago
     company_url: ''
     company_logo: org-uo
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+design:
+  columns: '2'
+---
+
+
+  <!-- - title: Tutoring
+    company: University of Otago
+    company_url: ''
+    company_logo: org-uo
     location: New Zealand
     date_start: '2022-6-1'
     date_end: '2022-11-31'
@@ -38,7 +66,4 @@ experience:
     location: New Zealand
     date_start: '2021-6-1'
     date_end: '2021-11-31'
-    description: FINC310 Fixed Income Security Analysis
-design:
-  columns: '2'
----
+    description: FINC310 Fixed Income Security Analysis -->
