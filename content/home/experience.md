@@ -24,8 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Tutoring
     company: University of Otago
-    company_url: ''
-    company_logo: org-gc
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -38,8 +36,6 @@ experience:
 
   - title: Tutoring
     company: University of Otago
-    company_url: ''
-    company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
