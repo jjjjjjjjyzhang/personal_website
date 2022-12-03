@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-uo
     location: New Zealand
-    date_start: '2022'
-    date_end: '2022'
+    date_start: '2022-6-1'
+    date_end: '2022-11-31'
     description: FINC306 Derivatives
 
   - title: Tutoring
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-uo
     location: New Zealand
-    date_start: '2021'
-    date_end: '2021'
+    date_start: '2021-6-1'
+    date_end: '2021-11-31'
     description: FINC310 Fixed Income Security Analysis
 design:
   columns: '2'
