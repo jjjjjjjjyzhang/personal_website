@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-uo
     location: New Zealand
-    date_start: '2022'
-    date_end: ''
+    date_start: '2022-7-1'
+    date_end: '2022-11-1'
     description: ''
 
   - title: Tutoring for FINC310 Fixed Income Security Analysis
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-uo
     location: New Zealand
-    date_start: '2021'
-    date_end: ''
+    date_start: '2021-7-1'
+    date_end: '2021-11-1'
     description: ''
 design:
   columns: '2'
