@@ -80,7 +80,7 @@ highlight_name: true
 I am a PhD candidate in Finance at University of Otago.
 
 
--CFA I, FRM Part 1 exam passed. CFA II candidate.
+-FRM Part 1, CFA I exams passed. CFA II candidate.
 
 
 
