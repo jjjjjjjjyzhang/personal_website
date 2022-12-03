@@ -22,23 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Tutoring for FINC306 Derivatives 2022
-    company: University X
+  - title: Tutoring
+    company: University of Otago
     company_url: ''
     company_logo: org-uo
     location: New Zealand
     date_start: '2022'
-    date_end: '2020'
-    description: |2-
+    date_end: '2022'
+    description: FINC306 Derivatives
 
-  - title: Tutoring for FINC310 Fixed Income Security Analysis
+  - title: Tutoring
     company: University of Otago
     company_url: ''
     company_logo: org-uo
     location: New Zealand
     date_start: '2021'
     date_end: '2021'
-    description: |2-
+    description: FINC310 Fixed Income Security Analysis
 design:
   columns: '2'
 ---
