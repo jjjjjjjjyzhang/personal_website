@@ -25,8 +25,8 @@ experience:
   - title: Tutoring
     company: University of Otago
     location: New Zealand
-    date_start: '2022-06-01'
-    date_end: '2022-11-31'
+    date_start: '2021-01-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
