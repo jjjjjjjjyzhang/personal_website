@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Tutoring
     company: University of Otago
-    company_url: ''
     location: New Zealand
     date_start: '2022-06-01'
     date_end: '2022-11-31'
@@ -32,9 +31,8 @@ experience:
 
   - title: Tutoring
     company: University of Otago
-    company_url: ''
     location: New Zealand
-    date_start: '2021-60-01'
+    date_start: '2021-06-01'
     date_end: '2021-11-31'
     description: FINC310 Fixed Income Security Analysis
 
