@@ -33,7 +33,7 @@ experience:
     company: University of Otago
     location: New Zealand
     date_start: '2021-06-01'
-    date_end: '2021-11-31'
+    date_end: '2021-11-30'
     description: FINC310 Fixed Income Security Analysis
 
 design:
