@@ -24,14 +24,19 @@ date_format: Jan 2006
 experience:
   - title: Tutoring
     company: University of Otago
-    location: Dunedin
-    date_start: '2022'
-    date_end: '2022'
-    description: FINC306 Derivatives
+    location: New Zealand
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
   - title: Tutoring
     company: University of Otago
-    location: Dunedin
+    location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
